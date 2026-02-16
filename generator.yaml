@@ -1,0 +1,14 @@
+ignore:
+  resource_names:
+    - BackupPlan
+    - BackupSelection
+    - BackupVault
+    - Framework
+    - LegalHold
+    - LogicallyAirGappedBackupVault
+    - ReportPlan
+    - RestoreAccessBackupVault
+    - RestoreTestingPlan
+    - RestoreTestingSelection
+    - TieringConfiguration
+  field_paths: []
